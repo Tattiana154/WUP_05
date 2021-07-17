@@ -79,3 +79,5 @@ The Null hypothesis ratio is equal to one. Because of this we cannot reject the 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+Our null hypothesis stated the aids drug was effective against getting aids in females. First we added a barchart to show how effective the drug was in females compared to females who took the placebo. From there it shows that those who took the aids drug were more likely to get aids than those who took the placebo. Then we ran the numerical result in order to have a more precise number of how effective the drug was against aids compared to the placebo. This showed us that the odds were 59.0 to 41.0. Because the p-value was equal to one we accepted the null hypothesis.  
